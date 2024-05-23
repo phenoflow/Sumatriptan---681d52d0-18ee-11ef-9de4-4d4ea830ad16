@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/sumatriptan-radis---primary.py
+inputModule3:
+  class: File
+  path: python/sumatriptan-100mg---primary.py
+inputModule4:
+  class: File
+  path: python/sumatriptan-dexcel---primary.py
+inputModule5:
+  class: File
+  path: python/sumatriptan---primary.py
+inputModule6:
+  class: File
+  path: python/sumatriptan-sandoz---primary.py
+inputModule7:
+  class: File
+  path: python/consilient-sumatriptan---primary.py
+inputModule8:
+  class: File
+  path: python/sumatriptan-syringe---primary.py
+inputModule9:
+  class: File
+  path: python/sumatriptan-winthrop---primary.py
+inputModule10:
+  class: File
+  path: python/sumatriptan-actuation---primary.py
+inputModule11:
+  class: File
+  path: python/sumatriptan-arrow---primary.py
+inputModule12:
+  class: File
+  path: python/sumatriptan-niche---primary.py
+inputModule13:
+  class: File
+  path: python/sumatriptan-imigran---primary.py
+inputModule14:
+  class: File
+  path: python/sumatriptan-sovereign---primary.py
+inputModule15:
+  class: File
+  path: python/sumatriptan-hillcross---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
